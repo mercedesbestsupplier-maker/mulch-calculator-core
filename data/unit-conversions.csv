@@ -1,0 +1,6 @@
+from_unit,to_unit,multiply_by,status
+foot,meter,0.3048,exact
+inch,centimeter,2.54,exact
+cubic_yard,cubic_foot,27,exact
+square_meter,square_foot,10.7639104167,derived_from_exact_foot_definition
+cubic_meter,cubic_foot,35.3146667215,derived_from_exact_foot_definition

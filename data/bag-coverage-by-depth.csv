@@ -1,0 +1,13 @@
+bag_volume_cubic_feet,depth_inches,coverage_square_feet,formula
+1.5,1,18,bag_volume_cubic_feet*12/depth_inches
+1.5,2,9,bag_volume_cubic_feet*12/depth_inches
+1.5,3,6,bag_volume_cubic_feet*12/depth_inches
+1.5,4,4.5,bag_volume_cubic_feet*12/depth_inches
+2,1,24,bag_volume_cubic_feet*12/depth_inches
+2,2,12,bag_volume_cubic_feet*12/depth_inches
+2,3,8,bag_volume_cubic_feet*12/depth_inches
+2,4,6,bag_volume_cubic_feet*12/depth_inches
+3,1,36,bag_volume_cubic_feet*12/depth_inches
+3,2,18,bag_volume_cubic_feet*12/depth_inches
+3,3,12,bag_volume_cubic_feet*12/depth_inches
+3,4,9,bag_volume_cubic_feet*12/depth_inches

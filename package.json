@@ -1,0 +1,32 @@
+{
+  "name": "mulch-calculator-core",
+  "version": "1.0.0",
+  "description": "Open mulch volume formulas, bag coverage tables, project checklists, and a dependency-free JavaScript calculator.",
+  "type": "module",
+  "main": "src/mulch-calculator.mjs",
+  "exports": "./src/mulch-calculator.mjs",
+  "files": [
+    "src",
+    "data",
+    "docs",
+    "checklists",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "mulch",
+    "calculator",
+    "landscaping",
+    "cubic-yards",
+    "bag-coverage"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercedesbestsupplier-maker/mulch-calculator-core.git"
+  },
+  "homepage": "https://covercalcpro.com/"
+}
