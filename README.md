@@ -13,9 +13,13 @@ The library supports:
 
 An interactive browser version is available at [CoverCalc Pro](https://covercalcpro.com/).
 
-## Use from source
+## Install
 
-This package is not published to npm. Clone or download this repository and import `src/mulch-calculator.mjs` directly.
+```bash
+npm install mulch-calculator-core
+```
+
+The published package is available on [npm](https://www.npmjs.com/package/mulch-calculator-core). To use the source directly, clone or download this repository and import `src/mulch-calculator.mjs`.
 
 ## Example
 
