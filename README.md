@@ -2,6 +2,8 @@
 
 Dependency-free JavaScript functions, reference tables, and project checklists for estimating mulch volume and bag counts.
 
+**Related personal project:** [Lydia's CoverCalc Pro Landscape Quantity Kit](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit) has a [live browser checker](https://lydiatools.github.io/covercalcpro-landscape-quantity-kit/tools/landscape-volume-check.html) and a [v0.1.1 offline ZIP](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit/releases/tag/v0.1.1). It is a separate project; this repository continues to provide the `mulch-calculator-core` npm library.
+
 The library supports:
 
 - Rectangle, square, and circle areas
